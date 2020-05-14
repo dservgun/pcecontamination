@@ -34,3 +34,4 @@ at the 455 and 485/487 E. Middlefield Road properties.
 
 Our approach to bio-remediation has been to add *only* as much of VaporRemed as needed for the project. There are a couple of technical reasons as to why we are able to accomplish such economies of scale while performing better than most alternative bioremediation solutions in the marketplace : either commercial, off-the-shelf products or make-shift bioremediation alternatives as outlined below. We will try to address them in a separate blog if the reader is interested.
 
+
