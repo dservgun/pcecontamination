@@ -9,10 +9,7 @@ googleAnalytics: "UA-84988988"
 
 The plot below shows the VaporAttenuation factor based on the formula below for PCE values.
 
-![Vapor Attenuation Formula](/img/vapor_attenuation_formula.png)
-
-![Vapor attenuation plot](/img/PCE_IA-001_IndoorAir_VP-003_SubSlab0101201604302020.svg)
-
+![Vapor attenuation plot](/img/PCE_IA-001_IndoorAir_VP-003_SubSlab0101201605312020.svg)
 
 ### Notes
 

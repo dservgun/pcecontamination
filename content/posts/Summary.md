@@ -33,7 +33,7 @@ We had identified 12 rooms for monitoring levels of TCE and PCE; of these rooms,
    - July 2019 - 26.8 ppb
    - Mar 2020 -  3.4 ppb
 
-![Degradation of TCE/PCE in IA-001](/img/PCE_TCE_VC_cis12DCE_IA-001_0406201803022020.svg)
+![Degradation of TCE/PCE in IA-001](/img/PCE_TCE_VC_cis12DCE_IA-001_0406201805112020.svg)
 
 #### PCE reduction in indoor air between 2018 - 2020
 Similar numbers can be seen for PCE, as seen below:
@@ -49,7 +49,7 @@ The indoor air values for PCE levels reduced by *10.5%* within 24 hours to convi
 After April 2019, the levels of VinylChloride reached *non-detect*. More about this later.
 
 
-### Summary of data for Near Soure Soil Gas Data.
+### Summary of data for Near Source Soil Gas Data.
 
 Soil gas data that we recorded after adding VaporRemed in the second week of December 2019 shows a significant reduction of PCE within 10 days time. The straight line slope on a *log scale* indicates an exponential decay. The slope is quite steep and the two points that we would like to focus on are
   - December 4th -  1, 570,000.00 ppb
@@ -61,7 +61,7 @@ Assuming an approximate first-order decay of PCE and TCE were computed as follow
 
 The difference in rates of PCE and TCE is important as we noticed that the levels of TCE rose before they actually fell down, indicating that the PCE was being broken down to TCE and was being added to the available TCE in the system that was being bio-remediated.
 
-![Degradation of TCE/PCE in SG-106](/img/PCE_TCE_VC_cis12DCE_SG-106_0618201903022020.svg)
+![Degradation of TCE/PCE in SG-106](/img/PCE_TCE_VC_cis12DCE_SG-106_0618201905112020.svg)
 
 ### Summary of data in Soil.
 
@@ -88,6 +88,7 @@ What we have noticed during the entire project is that [VaporRemed]() quickly re
   - Soil
   - Near source soil gas
   - Indoor air
+
 Further, VaporRemed is not a masking agent, therefore the remediation can be attributed to the action of VaporRemed on the contaminants.
 
 ##### Note : The plots are on log scale so that we can present distant data points on a single plot. Something, I learned in my high-school math and had to re-learn it for this project.
