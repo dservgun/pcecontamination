@@ -7,15 +7,11 @@ googleAnalytics: "UA-84988988"
 
 ## Location details.
 
-Here are some images to help gain a perspective about the project. 
+Here are some images to help gain a perspective about the project.
 
 ### Mall's front
 
 ![Mall's front](/img/front_strip_mall.png)
-
-### Loading dock
-
-![Loading Dock](/img/SoilInjectionPoint.jpg)
 
 ### Geo probe
 

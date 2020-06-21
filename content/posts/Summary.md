@@ -9,16 +9,15 @@ googleAnalytics: "UA-84988988"
 
 ### Introduction
 
-In this report, we present data collected on <em>aerobic</em> bio-remediation of soil contaminated with Perchloroethene (PCE), Trichloroethene (TCE), 
-cis-1,2-Dichloroethene (cis12DCE) and Vinyl Chloride (VC) using [VaporRemed](https://www.epa.gov/emergency-response/spillremed-mariner). 
-
+In this report, we present data collected on <em>aerobic</em> bio-remediation of soil contaminated with Perchloroethene (PCE), Trichloroethene (TCE),
+cis-1,2-Dichloroethene (cis12DCE) and Vinyl Chloride (VC) using [VaporRemed](https://www.epa.gov/emergency-response/spillremed-mariner).
 
 ### Enhanced Aerobic Bio-remediation of Chlorintaed Hydrocarbons
 
-The reference, [In Situ Bioremediaton : When Does It Work?](https://www.nap.edu/read/2131/chapter/1), lists at least three criteria for demonstrating that <em> in situ bio-remediation </em> is effective for a given project: 
+The reference, [In Situ Bioremediaton : When Does It Work?](https://www.nap.edu/read/2131/chapter/1), lists at least three criteria for demonstrating that <em> in situ bio-remediation </em> is effective for a given project:
 
-  - Documented loss of contaminants from the site due to bio-remediation, 
-  - Laboratory assays showing that the micro-organisms in site samples have the <em> potential </em> to transform contaminants under expected site condition, and 
+  - Documented loss of contaminants from the site due to bio-remediation,
+  - Laboratory assays showing that the micro-organisms in site samples have the <em> potential </em> to transform contaminants under expected site condition, and
   - One or more pieces of evidence showing that the bio-remediation potential is <em> actually realized </em> in the field.
 
 
@@ -27,7 +26,7 @@ The reference, [In Situ Bioremediaton : When Does It Work?](https://www.nap.edu/
 
 ### Summary of data for indoor air in one of the hotspots.
 
-We had identified 12 rooms for monitoring levels of TCE and PCE; of these rooms, the room closest to the sub-slab area IA-001 was monitored more actively. The graph below shows contamination levels of TCE, PCE, 1,2 cisDCE and VinylChloride between 2018 - 2020. 
+We had identified 12 rooms for monitoring levels of TCE and PCE; of these rooms, the room closest to the sub-slab area IA-001 was monitored more actively. The graph below shows contamination levels of TCE, PCE, 1,2 cisDCE and VinylChloride between 2018 - 2020.
 
 #### TCE reduction in indoor air between 2018 - 2020
    - June 2018 - 97.8 ppb
@@ -40,7 +39,7 @@ We had identified 12 rooms for monitoring levels of TCE and PCE; of these rooms,
 Similar numbers can be seen for PCE, as seen below:
     - June 2018 - 719 ppb
     - September 2019 - 1050 ppb
-    - September 2019 (next day) - 939 ppb 
+    - September 2019 (next day) - 939 ppb
     - Mar 2020 - 186 ppb
 
 The indoor air values for PCE levels reduced by *10.5%* within 24 hours to convince us of the impact of adding VaporRemed in the subslab area. We will be continuing this theme in the rest of the post.
@@ -52,13 +51,13 @@ After April 2019, the levels of VinylChloride reached *non-detect*. More about t
 
 ### Summary of data for Near Soure Soil Gas Data.
 
-Soil gas data that we recorded after adding VaporRemed in the second week of December 2019 shows a significant reduction of PCE within 10 days time. The straight line slope on a *log scale* indicates an exponential decay. The slope is quite steep and the two points that we would like to focus on are 
+Soil gas data that we recorded after adding VaporRemed in the second week of December 2019 shows a significant reduction of PCE within 10 days time. The straight line slope on a *log scale* indicates an exponential decay. The slope is quite steep and the two points that we would like to focus on are
   - December 4th -  1, 570,000.00 ppb
   - December 12th - 80,400.00 ppb.
 
-Assuming an approximate first-order decay of PCE and TCE were computed as follows: 
-  - PCE - -37% 
-  - TCE - -19% 
+Assuming an approximate first-order decay of PCE and TCE were computed as follows:
+  - PCE - -37%
+  - TCE - -19%
 
 The difference in rates of PCE and TCE is important as we noticed that the levels of TCE rose before they actually fell down, indicating that the PCE was being broken down to TCE and was being added to the available TCE in the system that was being bio-remediated.
 
@@ -73,7 +72,7 @@ In the report we observe increase levels in Vinyl Chloride indicating active bio
 
 Definition : A quantity is subject to exponential decay if it de-
 creases at a rate proportional to its current value. In this report
-and the attached source code, we are using the following formula: 
+and the attached source code, we are using the following formula:
 
 > rate = oneDay ∗ (ln r2 − ln r1)/timeInSeconds. Where
 
@@ -85,11 +84,11 @@ and the attached source code, we are using the following formula:
 
 
 ### Summary
-What we have noticed during the entire project is that [VaporRemed]() quickly reduces contamination levels in any of the media that we have tested so far: 
+What we have noticed during the entire project is that [VaporRemed]() quickly reduces contamination levels in any of the media that we have tested so far:
   - Soil
   - Near source soil gas
   - Indoor air
-Further, VaporRemed is not a masking agent, therefore the remediation can be attributed to the action of VaporRemed on the contaminants. 
+Further, VaporRemed is not a masking agent, therefore the remediation can be attributed to the action of VaporRemed on the contaminants.
 
-#### Note : The plots are on log scale so that we can cover the various data points in a single plot.
-  
+##### Note : The plots are on log scale so that we can present distant data points on a single plot. Something, I learned in my high-school math and had to re-learn it for this project.
+
