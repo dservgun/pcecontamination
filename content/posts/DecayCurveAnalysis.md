@@ -2,6 +2,7 @@
 title: "Analysis of TCE decay."
 date: 2020-05-09T22:52:38-04:00
 featured_image: ""
+googleAnalytics: "UA-84988988"
 ---
 
 ## First-order decay curves at SG-106
@@ -16,7 +17,7 @@ These numbers allowed us to extrapolate a decay model for TCE based on the PCE d
 
 ![TCE Decay Curve](/img/DecayCurve_TCE_SG-106_NearSourceSoilGas11171858.svg)
 
-The curve shown above indicates that TCE levels increase before they decrease. This observation is inline with most literature on bio-remediation of PCE that breaksdown into TCE and other compounds as shown here. If we do some "back-of-the-envelope" computations, for each PCE molecule generates a TCE molecule that is fed back into the bio-remediation system. Therefore if we guess that the rate of decay of contamination for TCE is half that of PCE, our guess may not be that far off from what we observed on the [field](./Summary.md) : 
+The curve shown above indicates that TCE levels increase before they decrease. This observation is inline with most literature on bio-remediation of PCE that breaksdown into TCE and other compounds as shown here. If we do some "back-of-the-envelope" computations, for each PCE molecule generates a TCE molecule that is fed back into the bio-remediation system. Therefore if we guess that the rate of decay of contamination for TCE is approximately half that of PCE, our guess may not be that far off from the observations on the [field](./Summary.md) : 
     
     > PCE - -37% 
     > TCE - -19% 

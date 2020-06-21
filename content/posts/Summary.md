@@ -2,6 +2,7 @@
 title: "Enhanced Aerobic bio-remediation of Chlorinated Solvents at a strip mall in York, PA"
 date: 2020-05-09T22:52:38-04:00
 featured_image: ""
+googleAnalytics: "UA-84988988"
 ---
 
 ## Enhanced Aerobic Bio-remediation Report
@@ -17,7 +18,7 @@ cis-1,2-Dichloroethene (cis12DCE) and Vinyl Chloride (VC) using [VaporRemed](htt
 The reference, [In Situ Bioremediaton : When Does It Work?](https://www.nap.edu/read/2131/chapter/1), lists at least three criteria for demonstrating that <em> in situ bio-remediation </em> is effective for a given project: 
 
   - Documented loss of contaminants from the site due to bio-remediation, 
-  - Labotary assays showing that the micro-organisms in site samples have the <em> potential </em> to transform contaminants under expected site condition, and 
+  - Laboratory assays showing that the micro-organisms in site samples have the <em> potential </em> to transform contaminants under expected site condition, and 
   - One or more pieces of evidence showing that the bio-remediation potential is <em> actually realized </em> in the field.
 
 

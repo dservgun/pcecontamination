@@ -2,6 +2,7 @@
 title: "Location details"
 date: 2020-05-09T22:52:38-04:00
 featured_image: ""
+googleAnalytics: "UA-84988988"
 ---
 
 ## Location details.
