@@ -17,7 +17,7 @@ googleAnalytics: "UA-84988988"
     ![](/img/PCE_TCE_VC_cis12DCE_IA-002_0718201801202020.svg)
 
   - IA-004 between 2018 - 2020
-    ![](/img/PCE_TCE_VC_cis12DCE_IA-004_0718201801202020.svg)
+    ![](/img/PCE_TCE_VC_cis12DCE_IA-004_0228201901202020.svg)
 
   - IA-007 between 2018 - 2020
     ![](/img/PCE_TCE_VC_cis12DCE_IA-007_0404201901172020.svg)

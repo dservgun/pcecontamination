@@ -13,12 +13,10 @@ googleAnalytics: "UA-84988988"
 
 ### Grand total amount of VaporRemed added to the site is - 476 gallons.
 
-
-
 ### Comparison with other projects
 
-Although to do an apples-to-apples comparison is not accurate, the following paragraph from the 
-*Fourth Five-Year Review Report for Middlefield-Ellis-Whisman (MEW) Superfund Study Area (Pg. 21)* is quite instructive of the amount of engineering effort needed to accomplish bio-remediation on the field. 
+Although to do an apples-to-apples comparison is not accurate, the following paragraph from the
+*Fourth Five-Year Review Report for Middlefield-Ellis-Whisman (MEW) Superfund Study Area (Pg. 21)* is quite instructive of the amount of engineering effort needed to accomplish bio-remediation on the field.
 
 ```
 Several in-situ treatment pilot programs have been implemented to target high TCE concentration areas to

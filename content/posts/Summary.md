@@ -93,3 +93,6 @@ Further, VaporRemed is not a masking agent, therefore the remediation can be att
 
 ##### Note : The plots are on log scale so that we can present distant data points on a single plot. Something, I learned in my high-school math and had to re-learn it for this project.
 
+### Reference
+ - [Shorter Report](/pdf/RIR_04112020_Shorter.pdf)
+ - [Detailed Report](/pdf/Initial_RIR_03302020.pdf)
