@@ -1,6 +1,6 @@
 ---
 title: "Enhanced Aerobic bio-remediation of Chlorinated Solvents at a strip mall in York, PA"
-date: 2020-05-09T22:52:38-04:00
+date: 2020-05-18T22:52:38-04:00
 featured_image: ""
 googleAnalytics: "UA-84988988"
 ---

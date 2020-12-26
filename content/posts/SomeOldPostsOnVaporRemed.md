@@ -1,6 +1,6 @@
 ---
 title: "VaporRemed Case Studies"
-date: 2020-05-09T22:52:38-04:00
+date: 2020-05-17T22:52:38-04:00
 featured_image: ""
 googleAnalytics: "UA-84988988"
 ---
@@ -36,3 +36,6 @@ googleAnalytics: "UA-84988988"
 ### A report on the effectiveness of SpillRemed (Marine)
 
    - [A report on the effectiveness of SpillRemed (Marine) as a bioremediation agent](/pdf/SarvaBioRemedFinal.pdf)
+
+### Some press on SpillRemed (Marine)
+   - [An article on SpillRemed in Canadian Environmental Protection](/pdf/CEParticleonBiodispersion.pdf)
