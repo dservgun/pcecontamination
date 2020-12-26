@@ -6,8 +6,4 @@ googleAnalytics: "UA-84988988"
 ---
 
 This document is a result of a recent conversation with an environmental consultant. They wanted to find out some schematics, flow diagrams of application of VaporRemed on the field. We have tried to collect them here.
-[Link](/pdf/CurrentProjects.pdf)
-
-
-## Notes
-We presented the poster virtually due to the ongoing pandemic.
+[Link](/pdf/CurrentProjects.pdf).
