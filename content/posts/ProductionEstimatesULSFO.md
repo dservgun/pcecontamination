@@ -7,7 +7,7 @@ draft : false
 ---
 
 ## Production estimates from Asphalt
-We were asked to put out some estimates on the amount of [ULSFO](./ProducingULFO.md) from waste asphalt. This [link](/pdf/RoadGoldInfographics.pdf) contains a table that presents those estimates.
+We were asked to put out some estimates on the amount of [ULSFO](/posts/producingulfo) from waste asphalt. This [link](/pdf/RoadGoldInfographics.pdf) contains a table that presents those estimates.
 
 > TLDR;
 > _100,000.00 kilograms of waste Asphalt is estimated to produce 90,000 liters._
